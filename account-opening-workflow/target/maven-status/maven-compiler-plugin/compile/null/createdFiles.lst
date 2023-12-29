@@ -1,0 +1,7 @@
+apps\account\CustomHumanTaskLifeCycle.class
+apps\account\Start.class
+apps\account\CamelRoute.class
+META-INF\sisu\javax.inject.Named
+apps\account\ServiceBean.class
+apps\account\CompleteStartedOnly.class
+apps\account\ServiceRoute.class

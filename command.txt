@@ -1,0 +1,7 @@
+mvn clean quarkus:dev
+
+mvn compile quarkus:dev
+
+mvn clean install
+
+mvn package
